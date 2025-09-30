@@ -18,7 +18,14 @@ int main()
         cin >> weight;
         cout << "Enter your height in inches: ";
         cin >> height;
-    }
+
+        if (weight <= 0 || height <= 0)
+        {
+            cout << "Input Error: Weight and height must be greater than zero." << endl;
+
+            return 1;
+        }
+    }   
 
     // Module 2: Processing
     {
