@@ -2,7 +2,7 @@
 // Programmer: Kaylee Brown
 // Date: October 2025
 // Requirements: This program is designed to calculate the user's BMI and determine
-// if they are overweight, underweight, or opimal weight.
+// if they are overweight, underweight, or opitmal weight.
 
 #include <iostream>
 #include <iomanip>
